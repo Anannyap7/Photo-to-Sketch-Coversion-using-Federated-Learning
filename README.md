@@ -2,6 +2,9 @@
 
 We (Lakshya Gupta and Anannya Popat) provide a novel method that employs machine learning (ML) to train the camera filter and provide generic filter capabilities while  taking privacy concerns into account using the concept of federated learning and auto-encoding with the help of the CUHK Face Sketch Database (CUFS) dataset to transform any given image into a sketched representation of itself.
 
+## Link to the dataset
+[PhotoToSketch Dataset](https://drive.google.com/drive/folders/10Sr3neBMvJlP2GAV1thIOkdWn83fDVcr?usp=sharing)
+
 1. **Example Input Image (Photo Vs Corresponding Sketch):**
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/59221653/202837687-7a9e334e-7d5c-4e8d-b715-82e37c828e67.png" width="500">
